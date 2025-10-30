@@ -1,5 +1,7 @@
 # AI-Can-vs-Cannot
 
+Last updated: 20251030
+
 ## AI Can
 
 ### ✅ Understand and generate patterns in data
